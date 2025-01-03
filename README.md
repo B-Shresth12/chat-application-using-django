@@ -11,8 +11,3 @@ This project is a real-time chat system built with Django and HTMX, allowing use
 - **User-friendly interface:** Simple and intuitive design for ease of use.
 
 ---
-
-## Getting Started
-(You can add setup instructions and usage details here.)
-
-Feel free to reach out if you have any questions or need further assistance!
